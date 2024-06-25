@@ -1,0 +1,12 @@
+Flask
+Flask_Compress
+Flask_Cors
+Pillow==9.5.0
+beautifulsoup4
+gunicorn
+lxml
+ortools
+python-dateutil
+pytz
+requests
+tqdm
