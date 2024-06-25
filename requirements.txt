@@ -1,0 +1,11 @@
+ldap3
+Flask
+ortools
+Flask_Compress
+Flask_Cors
+requests
+beautifulsoup4
+gunicorn
+python-dateutil
+lxml
+pytz
